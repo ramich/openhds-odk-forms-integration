@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<extraform formName="sample">
+    <data columnName="_URI" type="VARCHAR">uuid:ec307c7a-b338-4631-9377-5ef5eb83c2f9</data>
+    <data columnName="_CREATOR_URI_USER" type="VARCHAR">anonymousUser</data>
+    <data columnName="_CREATION_DATE" type="DATETIME">2015-06-04 12:05:49.0</data>
+    <data columnName="_LAST_UPDATE_URI_USER" type="VARCHAR"/>
+    <data columnName="_LAST_UPDATE_DATE" type="DATETIME">2015-06-04 12:05:49.0</data>
+    <data columnName="_MODEL_VERSION" type="INT"/>
+    <data columnName="_UI_VERSION" type="INT"/>
+    <data columnName="_IS_COMPLETE" type="CHAR">1</data>
+    <data columnName="_SUBMISSION_DATE" type="DATETIME">2015-06-04 12:05:49.0</data>
+    <data columnName="_MARKED_AS_COMPLETE_DATE" type="DATETIME">2015-06-04 12:05:49.0</data>
+    <data columnName="SELECT_EXAMPLE" type="VARCHAR">no</data>
+    <data columnName="GEOPOINT_TEST_ACC" type="DECIMAL"/>
+    <data columnName="TABLE_LIST_EXAMPLE_GENERATED_TABLE_LIST_LABEL_21" type="VARCHAR"/>
+    <data columnName="BARCODE_TEST" type="VARCHAR"/>
+    <data columnName="ACKNOWLEDGE_TEST" type="VARCHAR"/>
+    <data columnName="PHONENUMBER" type="VARCHAR"/>
+    <data columnName="DATE_TEST" type="DATETIME"/>
+    <data columnName="START_TEST_OUTPUT" type="VARCHAR"/>
+    <data columnName="SIMSERIAL_TEST_OUTPUT" type="VARCHAR"/>
+    <data columnName="TIME_TEST" type="DATETIME"/>
+    <data columnName="SELECT_APPEARANCE_NOTE" type="VARCHAR"/>
+    <data columnName="META_INSTANCE_ID" type="VARCHAR">uuid:ec307c7a-b338-4631-9377-5ef5eb83c2f9</data>
+    <data columnName="A_INTEGER" type="INT">123</data>
+    <data columnName="SIMSERIAL" type="VARCHAR"/>
+    <data columnName="CALCULATE" type="VARCHAR"/>
+    <data columnName="SOME_TEXT" type="VARCHAR"/>
+    <data columnName="TEXT_IMAGE_AUDIO_VIDEO_TEST" type="VARCHAR"/>
+    <data columnName="LABELED_SELECT_GROUP_LABEL_TEST" type="VARCHAR"/>
+    <data columnName="CALCULATE_TEST_OUTPUT" type="VARCHAR"/>
+    <data columnName="PHONENUMBER_TEST_OUTPUT" type="VARCHAR"/>
+    <data columnName="A_DECIMAL" type="DECIMAL"/>
+    <data columnName="GROUP_TEST_FIELD_LIST_NOTE" type="VARCHAR"/>
+    <data columnName="DATETIME_TEST" type="DATETIME"/>
+    <data columnName="DEVICEID_TEST_OUTPUT" type="VARCHAR"/>
+    <data columnName="END_TEST_OUTPUT" type="VARCHAR"/>
+    <data columnName="TODAY" type="DATETIME">2015-06-04 00:00:00.0</data>
+    <data columnName="SKIP_EXAMPLE" type="VARCHAR">no</data>
+    <data columnName="GEOPOINT_TEST_LAT" type="DECIMAL"/>
+    <data columnName="GEOPOINT_TEST_ALT" type="DECIMAL"/>
+    <data columnName="METADATA_NOTE" type="VARCHAR"/>
+    <data columnName="TABLE_LIST_EXAMPLE_RESERVED_NAME_FOR_FIELD_LIST_LABELS_22" type="VARCHAR"/>
+    <data columnName="LABELED_SELECT_GROUP_LIST_NOLABEL_TEST" type="VARCHAR"/>
+    <data columnName="DATA_TYPES_NOTE" type="VARCHAR"/>
+    <data columnName="GEOPOINT_TEST_LNG" type="DECIMAL"/>
+    <data columnName="SKIPABLE_QUESTION" type="VARCHAR"/>
+    <data columnName="DEVICEID" type="VARCHAR">14:F4:2A:87:12:30</data>
+    <data columnName="TABLE_LIST_EXAMPLE_TABLE_LIST_QUESTION_1" type="VARCHAR">yes</data>
+    <data columnName="START" type="DATETIME">2015-06-04 13:08:34.0</data>
+    <data columnName="END" type="DATETIME">2015-06-04 13:09:35.0</data>
+    <data columnName="REQUIRED_TEXT" type="VARCHAR">fg</data>
+    <data columnName="COMPACT_TEST" type="VARCHAR"/>
+    <data columnName="TABLE_LIST_EXAMPLE_TABLE_LIST_QUESTION_2" type="VARCHAR"/>
+    <data columnName="TODAY_TEST_OUTPUT" type="VARCHAR"/>
+</extraform>
