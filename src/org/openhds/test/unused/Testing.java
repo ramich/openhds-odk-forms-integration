@@ -167,21 +167,10 @@ public class Testing {
 		System.out.println(sql);
 	}
 	
-	public void testPropertiesFile(){
-		CrunchifyGetPropertyValues properties = new CrunchifyGetPropertyValues();
-		try {
-			properties.getPropValues();
-		} catch (IOException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		}
-	}
-	
 	public static void main(String[] args){
 		Testing t = new Testing();
 //		t.verifyLocationId();
 //		t.replaceStringTestInsert();
-//		t.testPropertiesFile();
 		
 		System.out.println(MirthProperties.getTimeout());
 	}
