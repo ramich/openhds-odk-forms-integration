@@ -37,3 +37,6 @@ local.properties
 
 # TeXlipse plugin
 .texlipse
+
+#Project specific ignore
+data/submissions
